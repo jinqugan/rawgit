@@ -3,7 +3,7 @@
     <channel>
         <title>New version updates development</title>
         <item>
-            <title>Version 1.0.1</title>
+            <title>Version 1.0.2</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Fri, 2 Feb 2023 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/apps/test/com.payrecon.smartpos/4" sparkle:version="1.0.1" sparkle:os="android"/>
